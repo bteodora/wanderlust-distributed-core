@@ -1,6 +1,4 @@
 <div align="center">  
-  <br><br>
-
   <h1 style="font-family: 'Segoe UI', sans-serif; font-weight: 300; letter-spacing: 6px; text-transform: uppercase; border-bottom: none;">WANDERLUST</h1>
   <h3 style="font-family: 'Segoe UI', sans-serif; font-weight: 400; letter-spacing: 2px; text-transform: uppercase; color: #666;">Autonomous Distributed Cloud Ecosystem</h3>
 
