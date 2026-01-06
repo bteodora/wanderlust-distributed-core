@@ -18,6 +18,8 @@
   </p>
 
   <br>
+  <a href="SOA specifikacija.pdf"><strong>View full Specification »</strong></a>
+  <br>
   <a href="#architectural-vision"><strong>Explore Architecture »</strong></a>
   <span style="padding: 0 10px">|</span>
   <a href="#engineering-deep-dive"><strong>Engineering Deep Dive »</strong></a>
